@@ -1,4 +1,4 @@
-# Bash for Beginners
+# Bash 
 
 ## Overview
 
